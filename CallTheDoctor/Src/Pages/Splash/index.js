@@ -1,6 +1,7 @@
 import React, {useEffect} from 'react';
 import {StyleSheet, Text, View} from 'react-native';
-import {ILLogo} from '../../Assets';
+import {ILLogo} from '../../Assets/illustration';
+// import {ILLogo} from '../../Assets';
 import {Fire} from '../../Config';
 import {colors, fonts} from '../../Constant';
 
